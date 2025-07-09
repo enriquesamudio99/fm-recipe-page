@@ -170,6 +170,8 @@ textarea:not([rows]) {
 .card__preparation {
   margin: 2rem 0;
   padding: 1.5rem;
+  background-color: var(--clr-rose-50);
+  border-radius: .75rem;
 }
 
 .card__preparation-title {
